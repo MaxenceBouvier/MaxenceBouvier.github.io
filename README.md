@@ -8,7 +8,7 @@ This site hosts my professional resume and provides a brief introduction about m
 
 ## Accessing the Resume
 
-The resume can be viewed directly on the GitHub Pages site at: `https://{yourusername}.github.io`.
+The resume can be viewed directly on the GitHub Pages site at: `https://MaxenceBouvier.github.io`.
 
 ## Contributing
 
